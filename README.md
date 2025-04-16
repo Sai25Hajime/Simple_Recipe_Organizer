@@ -40,11 +40,11 @@ A simple and efficient recipe organizer app that allows users to easily store, m
 4. Click Run in Android Studio to launch the app on your device or emulator.
 
 ## 🛠️ How It Works
-1.Adding a Recipe:
+1. Adding a Recipe:
 
 Navigate to the "Add Recipe" screen where you can input the recipe name, ingredients, steps, and optional image.
 
-2.Editing a Recipe:
+2. Editing a Recipe:
 
 You can modify any existing recipe by selecting it from the list and making the necessary changes.
 
