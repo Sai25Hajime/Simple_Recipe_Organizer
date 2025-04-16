@@ -20,12 +20,12 @@ A simple and efficient recipe organizer app that allows users to easily store, m
 - DBSQLite (for data storage)
 
 ## ⚙️ Installation
-# Prerequisites
-Android Studio
+**Prerequisites:**
+- Android Studio
 
-Java Development Kit (JDK)
+- Java Development Kit (JDK)
 
-Android Emulator or Physical Android Device
+- Android Emulator or Physical Android Device
 
 ## Steps to Run the Project:
 1. Clone the repository:
