@@ -3,6 +3,8 @@ This is for the Mobile Computing Project that I did back in Semester 6 of Comput
 
 A simple and efficient recipe organizer app that allows users to easily store, manage, and organize their favorite recipes. The app allows users to add, edit, and delete recipes while maintaining a clean and easy-to-use interface.
 
+---
+
 ## 📱 Features
 - Add Recipes: Easily add new recipes to the organizer.
 
@@ -12,14 +14,20 @@ A simple and efficient recipe organizer app that allows users to easily store, m
 
 - User-Friendly Interface: Simple and intuitive UI for a seamless user experience.
 
+---
+
 ## 🧑‍🍳 Technologies Used
 - Programming Language: Kotlin (for Android development)
+
+---
 
 ## Libraries & Frameworks:
 
 - Android Studio SDK (to make the andriod application)
 
 - DBSQLite (for data storage)
+
+---
 
 ## ⚙️ Installation
 **Prerequisites:**
@@ -28,6 +36,8 @@ A simple and efficient recipe organizer app that allows users to easily store, m
 - Java Development Kit (JDK)
 
 - Android Emulator or Physical Android Device
+
+---
 
 ## Steps to Run the Project:
 1. Clone the repository:
@@ -40,6 +50,8 @@ A simple and efficient recipe organizer app that allows users to easily store, m
 3. Connect your Android device or start the emulator.
 
 4. Click Run in Android Studio to launch the app on your device or emulator.
+
+---
 
 ## 🛠️ How It Works
 1. Adding a Recipe:
@@ -54,6 +66,7 @@ You can modify any existing recipe by selecting it from the list and making the 
 
 Swipe or use the delete button to remove a recipe from the list.
 
+---
 
 ## 👩‍💻 Contributors
 - [Saileen Fernandes (@Sai25Hajime)](https://github.com/Sai25Hajime)
