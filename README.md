@@ -1,4 +1,6 @@
 ## Simple Recipe Organizer
+This is for the Mobile Computing Project that I did back in Semester 6 of Computer Engineering.
+
 A simple and efficient recipe organizer app that allows users to easily store, manage, and organize their favorite recipes. The app allows users to add, edit, and delete recipes while maintaining a clean and easy-to-use interface.
 
 ## 📱 Features
