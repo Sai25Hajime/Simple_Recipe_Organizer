@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".AddRecipeActivity">
+
+    <TextView
+        android:id="@+id/addRecipeHeading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/poppins"
+        android:text="@string/add_recipe"
+        android:textColor="@color/pink"
+        android:textSize="24sp" />
+
+    <ImageView
+        android:id="@+id/saveButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/baseline_done_24"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/addRecipeHeading"
+        android:layout_marginEnd="6dp"
+        android:contentDescription="@string/save_button_description" />
+    <EditText
+        android:id="@+id/titleEditText"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:hint="@string/enter_title_hint"
+        android:padding="12dp"
+        android:textSize="20sp"
+        android:layout_below="@id/addRecipeHeading"
+        android:background="@drawable/pink_border"
+        android:layout_marginTop="16dp"
+        android:maxLines="1"
+        android:autofillHints="title"
+        android:inputType="text"
+        android:fontFamily="@font/poppins"/>
+
+    <EditText
+        android:id="@+id/contentEditText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:hint="@string/enter_description_hint"
+        android:gravity="top"
+        android:padding="12dp"
+        android:textSize="18sp"
+        android:autofillHints="description"
+        android:inputType="textMultiLine"
+        android:fontFamily="@font/poppins"
+        android:background="@drawable/pink_border"
+        android:layout_below="@id/titleEditText"
+        android:layout_marginTop="12dp" />
+</RelativeLayout>

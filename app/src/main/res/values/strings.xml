@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SimpleRecipeOrganizer3</string>
+    <string name="enter_title">Enter title</string>
+    <string name="enter_description">Enter description</string>
+    <string name="save">Save</string>
+    <string name="data_will_be_displayed_here">Data will be displayed here</string>
+    <string name="add_button_description">Add a new recipe</string>
+    <string name="add_recipe">Add Recipe</string>
+    <string name="save_button_description">Save Button Description</string>
+    <string name="enter_title_hint">Enter Title</string>
+    <string name="enter_description_hint">Enter Description</string>
+    <string name="recipes_title">Recipes</string>
+    <string name="update_button_description">Update Recipe</string>
+    <string name="update">Update</string>
+    <string name="update_recipe">Update Recipe</string>
+</resources>
