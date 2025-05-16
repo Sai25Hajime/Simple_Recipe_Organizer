@@ -43,8 +43,8 @@ A simple and efficient recipe organizer app that allows users to easily store, m
 1. Clone the repository:
    ```
    bash
-   git clone https://github.com/Sai25Hajime/Simple_Recipe_Organizer.git
-   cd Simple_Recipe_Organizer
+   git clone https://github.com/Sai25Hajime/Simple-Recipe-Organizer.git
+   cd Simple-Recipe-Organizer
    
 2. Open the project in Android Studio.
 
